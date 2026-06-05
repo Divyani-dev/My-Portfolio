@@ -1,6 +1,17 @@
-# My-Portfolio
-My First GitHub project
-index.html
-style.css
-script.js
-README.md
+# My Portfolio
+
+This is my personal portfolio website.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Features
+- Responsive Design
+- About Me Section
+- Projects Section
+- Contact Section
+
+## Author
+Divyani
